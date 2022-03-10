@@ -1,4 +1,6 @@
 # 게시물, 댓글 API서버
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/98328569/157632990-b352469c-764d-417e-b543-dfde9313c0bb.png">
+
 
 1. 게시물 전체
 
